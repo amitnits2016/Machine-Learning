@@ -38,4 +38,7 @@ Please use appropriate visualization and/or modeling techniques to back your res
 
 ####    Inspiration
 
-Here are the questions I'd like you to answer: 1. How efficient and effective are our tele-calling operations? 2. What are three things you would recommend we do to the efficiency and effectiveness of our tele-calling operations? 3. What are some other ways in which we can utilize this dataset to add value to Business, Operations or Product?
+Here are the questions I'd like you to answer: 
+1. How efficient and effective are our tele-calling operations? 
+2. What are three things you would recommend we do to the efficiency and effectiveness of our tele-calling operations? 
+3. What are some other ways in which we can utilize this dataset to add value to Business, Operations or Product?
